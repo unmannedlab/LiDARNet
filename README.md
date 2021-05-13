@@ -35,10 +35,10 @@ We present a boundary-aware domain adaptation model for LiDAR scan full-scene se
 
 ## Citation
 ```
-@misc{jiang2020lidarnet,
-      title={LiDARNet: A Boundary-Aware Domain Adaptation Model for Lidar Point Cloud Semantic 
+@misc{jiang2021lidarnet,
+      title={LiDARNet: A Boundary-Aware Domain Adaptation Model for Point Cloud Semantic Segmentation}, 
       author={Peng Jiang and Srikanth Saripalli},
-      year={2020},
+      year={2021},
       eprint={2003.01174},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
